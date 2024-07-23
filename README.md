@@ -1,6 +1,6 @@
 # Naive_3D_Renderer
 
-## A dumb 3D renderer that doesn't use linear algebra, instead uses an actual simulated camera
+## A dumb 3D renderer that doesn't use matrices, instead uses an actual simulated camera
 
 ![Teapot](media/teapot.png)
 
