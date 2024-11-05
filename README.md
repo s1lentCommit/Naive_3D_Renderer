@@ -4,6 +4,6 @@
 
 ![Teapot](media/teapot.png)
 
-## This is the math that it uses, available on Geogebra [here](https://www.geogebra.org/m/gehjgrxz)
+## This is the stupid math that it uses, available on Geogebra [here](https://www.geogebra.org/m/gehjgrxz)
 
 ![Geogebra](media/geogebra.png)
