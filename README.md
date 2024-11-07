@@ -1,6 +1,6 @@
 # Naive_3D_Renderer
 
-## A dumb 3D renderer that doesn't use matrices, instead uses an actual simulated camera
+## A highly inefficient dumb 3D renderer that simulates uses an actual camera in 3D space.
 
 ![Teapot](media/teapot.png)
 
